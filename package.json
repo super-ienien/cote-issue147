@@ -1,0 +1,15 @@
+{
+  "name": "cote-issue147",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cote": "^0.18.3"
+  }
+}
